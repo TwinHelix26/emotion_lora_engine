@@ -1,0 +1,10 @@
+{
+  "joy": 0,
+  "trust": 45,
+  "fear": 90,
+  "surprise": 135,
+  "sadness": 180,
+  "disgust": 225,
+  "anger": 270,
+  "anticipation": 315
+}
